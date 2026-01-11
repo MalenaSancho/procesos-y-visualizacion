@@ -1,0 +1,33 @@
+# Dashboard Liga 24-25 - Dependencias del proyecto
+# Instalación: pip install -r requirements.txt
+
+# Framework principal para el dashboard
+streamlit==1.52.2
+folium>=0.15.0
+streamlit-folium>=0.15.0
+
+# Procesamiento de datos
+pandas==2.3.3
+numpy==2.4.0
+lxml>=5.0.0
+openpyxl>=3.1.0
+
+# Visualización
+plotly==6.5.1
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.8.0
+scipy==1.16.3
+
+# Web scraping y APIs
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+requests-cache>=1.1.0
+retry-requests>=2.0.0
+urllib3>=2.0.0
+
+# APIs específicas
+openmeteo-requests>=1.1.0
+pytrends>=4.9.0
