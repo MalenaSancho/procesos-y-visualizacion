@@ -72,7 +72,7 @@ El dashboard incluye las siguientes secciones:
 Si tienes git instalado:
 
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/jimenami/procesos-y-visualizacion.git
 cd cosas
 ```
 
