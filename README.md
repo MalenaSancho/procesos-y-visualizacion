@@ -285,7 +285,7 @@ Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 
 ## Autores
 
-Magdalena Sancho Docón, Juan Francisco Correas Díaz, Itsaso Aritzmuño Cenoz, Jimena Milla Moreno
+Magdalena Sancho Docón, Juan Francisco Correas Díaz, Itsaso Ariztimuño Cenoz, Jimena Milla Moreno
 
 ## Contacto
 
