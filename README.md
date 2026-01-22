@@ -23,6 +23,7 @@ cosas/
 ├── requirements.txt                   # Dependencias del proyecto
 ├── dashboard.py                       # Dashboard principal de Streamlit
 |── filename.hpl                      # Archivo hop de la unión de csv
+|── football-data.co.uk_notes.txt.pdf # Explicación de cada columna del SP1.csv
 ├── TrabajoFinal1.ipynb               # Notebook de análisis y extracción de datos
 ├── predicciones.ipynb                # Notebook con modelos predictivos
 ├── inputs/                           # Datos de entrada
